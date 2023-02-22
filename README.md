@@ -1,4 +1,4 @@
 # YapayZekaVeAlgoritmalarinaGiris
 
 The Graphic that we used
-![image](https://user-images.githubusercontent.com/102792446/220593001-4f463e44-e2c7-49e9-a7a3-8626a9b38836.png)
+![image](https://user-images.githubusercontent.com/102792446/220593338-e7649e54-d3ff-4871-9d4a-482b17c72c2f.png)
